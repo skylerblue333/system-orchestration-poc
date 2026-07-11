@@ -1,0 +1,11 @@
+{
+  "name": "@skycoin4444/system-orchestration-poc",
+  "version": "1.0.0",
+  "description": "System orchestration proof-of-concept - demonstrates unified control capabilities",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "demo": "echo 'running demonstration'",
+    "test": "echo 'tests'"
+  }
+}
